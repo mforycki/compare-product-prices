@@ -1,0 +1,7 @@
+Genius Chewing Gum 100
+chewinggum.jpg
+HappinessStore.ca 9.99 0.0 https://www.HappinessStore.ca/product#7433
+FressshGum.ca 9.99 5.99 https://www.FressshGum.ca/product#844
+StoneColdSnacks.com 11.99 7.99 https://www.FressshGum.ca/product#844
+DevelopersGum.ca 12.99 6.99 https://www.DevelopersGum.ca/product#456
+LearnToCodeGum.ca 8.99 4.49 https://www.LearnToCodeGum.ca/product#123

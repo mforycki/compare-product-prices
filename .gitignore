@@ -1,0 +1,16 @@
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Compiled class file
+*.class
+
+# BlueJ files
+*.ctxt
+
+# Package Files
+*.jar
